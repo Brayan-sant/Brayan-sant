@@ -3,10 +3,10 @@
 
 
 - 🔭 Trabalhei como diretor Administrativo
-- 🌱 Atualmente estudando Ciência de Dados, Técnico em Administração e Desenvolvimento Full Stack
+- 🌱 Doutor em Ecologia. E atualmente estudando Técnico em Administração e Desenvolvimento Full Stack (SENAI)
 - 👯 Irei ajudar a comunidade através de testes de hipóteses de negócio
 - 🤔 Gostaria de ajuda com dúvidas relacionadas ao universo da programação
-- 💬 Quais valores você carrega consigo?
+- 💬 Quais valores você carrega consigo? Respeito, liderança, boa comunicação e proatividade 
 - 📫 Contate-me no e-mail: brayansouza_1@hotmail.com
 - 😄 Pronouns: ele/ela
 
