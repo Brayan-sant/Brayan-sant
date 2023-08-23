@@ -41,4 +41,4 @@
   
 ## Principais Projetos
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/Brayan-sant/E-commerce-Games-SENAI)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Brayan-sant&repo=E-commerce-Games-SENAI)](https://github.com/Brayan-sant/E-commerce-Games-SENAI)
