@@ -46,3 +46,6 @@
 )](https://github.com/Brayan-sant/E-commerce-Games-SENAI)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Brayan-sant&repo=Formacao-CSS-Web-Developer-modulo-I
 )](https://github.com/Brayan-sant/E-commerce-Games-SENAI)
+
+## Contribuições
+
